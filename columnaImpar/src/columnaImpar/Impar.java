@@ -41,4 +41,5 @@ static void transpose(int A[][], int B[][]) {
             System.out.print("\n");
         }
     }
+	System.out.print("Estamos de puerbas aqui");
 }
