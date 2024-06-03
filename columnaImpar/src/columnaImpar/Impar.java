@@ -30,6 +30,8 @@ static void transpose(int A[][], int B[][]) {
 
     System.out.println("\nDespués de  Transponer:");
     Mostrar(B);
+
+	System.out.print("Estamos de puerbas aqui y lo hemos mejorado");
 }
 
     private static void Mostrar(int[][] b) {
@@ -41,5 +43,4 @@ static void transpose(int A[][], int B[][]) {
             System.out.print("\n");
         }
     }
-	System.out.print("Estamos de puerbas aqui");
 }
