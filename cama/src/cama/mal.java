@@ -6,7 +6,7 @@ public class mal {
 
 		System.out.println("cama mal hecha");
 		System.out.println("ahora ta bien");
-		System.out.println("ahora ta gucci");
+		System.out.println("ahora ta bueno");
 
 	}
 
